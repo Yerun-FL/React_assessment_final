@@ -1,0 +1,40 @@
+.mini-whole {
+  margin-top: 70px;
+  background-color: rgba(11, 11, 11, 0.504);
+  color: aliceblue;
+  padding: 30px;
+  /* background-color: transparent; */
+  border-style: inset;
+  border-radius: 20px;
+}
+.frm {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}
+.btn-clor {
+  color: aliceblue;
+  text-decoration: none;
+}
+.btn-clor:hover {
+  color: aliceblue;
+}
+.register {
+  text-align: center;
+  color: rgb(227, 238, 227);
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+}
+.frm .frminput {
+  border-style: inset;
+  background-color: transparent;
+  border-color: rgba(81, 80, 80, 0.69);
+  color: rgb(245, 245, 220);
+}
+.navbar2 button {
+  font-size: 20px;
+  font-weight: 600;
+}

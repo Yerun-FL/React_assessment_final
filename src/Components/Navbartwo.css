@@ -1,0 +1,23 @@
+.done {
+  width: 60px;
+}
+.navbar2 {
+  display: flex;
+  background-color: rgba(28, 24, 24, 0.638);
+}
+.book-btn {
+  margin-left: 80%;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 255, 229, 0.789),
+    rgba(2, 173, 170, 0)
+  );
+  border: none;
+}
+.book-btn:hover {
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 255, 221, 0.852),
+    rgba(6, 94, 101, 0.121)
+  );
+}

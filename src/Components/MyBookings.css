@@ -1,0 +1,74 @@
+.MyBookingsbody {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.69), rgba(0, 0, 0, 0.74)),
+    url("../Images/fromtobanner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  /* position: fixed; */
+  /* background-attachment: fixed;  */
+}
+.bookhead {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+}
+.showBooked {
+  color: rgba(247, 241, 241, 0.842);
+  text-align: center;
+}
+.colbooked {
+  justify-content: left;
+  background-image: linear-gradient(
+    rgba(9, 9, 9, 0.908),
+    rgba(125, 124, 124, 0.366)
+  );
+  margin-top: 20px;
+  width: 40%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  border-radius: 20px;
+  border-style: groove;
+  text-align: left;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 200px 200px; */
+}
+.back-btn {
+  float: right;
+  font-size: 25px;
+  font-weight: 600;
+  margin-right: 20px;
+  background-image: linear-gradient(
+    rgba(4, 200, 226, 0.767),
+    rgba(4, 59, 62, 0.408)
+  );
+  border: none;
+  padding: 10px;
+}
+.booked {
+  color: rgb(0, 147, 0);
+  font-weight: 700;
+}
+.bkshow {
+  color: rgba(179, 177, 177, 0.868);
+  font-weight: 700;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.sub {
+  display: flex;
+  justify-content: space-around;
+  background-image: linear-gradient(
+    rgba(5, 185, 209, 0.914),
+    rgba(2, 147, 155, 0.566)
+  );
+  padding: 10px;
+  border-radius: 10px;
+}
+.sub1 {
+  color: rgba(255, 250, 250, 0.937);
+  font-weight: 700;
+}

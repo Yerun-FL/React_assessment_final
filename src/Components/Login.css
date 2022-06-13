@@ -1,0 +1,25 @@
+.mini-login-whole {
+  margin-top: 30px;
+  color: aliceblue;
+  padding: 80px;
+  background-color: rgba(11, 11, 11, 0.504);
+  border-style: inset;
+  border-radius: 20px;
+}
+.login-whole {
+  padding: 50px;
+}
+.loginheading {
+  text-align: center;
+  color: rgb(227, 238, 227);
+  /* width: 50%; */
+  font-size: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+}
+.mini-login-whole .logininput {
+  background-color: transparent;
+  border-color: rgba(101, 101, 101, 0.69);
+  color: rgb(245, 245, 220);
+  border-style: inset;
+}

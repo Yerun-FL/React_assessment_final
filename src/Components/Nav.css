@@ -1,0 +1,23 @@
+.imagelogo {
+  width: 60px;
+  /* margin-left: 60px; */
+}
+.navbg {
+  background-color: rgb(128, 128, 128);
+  display: flex;
+  justify-content: space-between;
+}
+.btn-nav {
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 19px;
+  font-weight: 500;
+}
+.btn-nav:hover {
+  color: aliceblue;
+}
+/* .navbtn {
+  float: right;
+  margin-right: 10%;
+  margin-top: 1%;
+} */
